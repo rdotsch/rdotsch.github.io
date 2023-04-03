@@ -1,6 +1,6 @@
 # About me
 
-I’m a Lead Research Scientist in the [User Modeling and Personalisation Reserch team](https://research.snap.com/team/category/user-modeling-and-personalization.html) at Snap Inc. My work focuses on user modeling with big data and machine learning, applied in various contexts at Snapchat (including Spam & Abuse, Trust & Safety).  
+I’m a Lead Research Scientist in the [User Modeling and Personalisation Reserch team](https://research.snap.com/team/category/user-modeling-and-personalization.html) at Snap Inc. My curent work focuses on user modeling with big data and machine learning, applied in various contexts at Snapchat (including Spam & Abuse, Trust & Safety). Previously, during the academic phase of my career, my work focused on social face perception and data-driven research methods in behavioral science.
 
 I hold a PhD in Psychology from Radboud University Nijmegen and have been a Post-Doctoral Research Fellow at Princeton University.
 
