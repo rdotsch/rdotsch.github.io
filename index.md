@@ -6,12 +6,11 @@ I hold a PhD in Psychology from Radboud University Nijmegen and have been a Post
 
 For my complete resume, see [my LinkedIn profile](https://www.linkedin.com/in/rondotsch).
 
+# Publications and Patents
+
+For a full list of publications and patents, see [my Google Scholar profile](https://scholar.google.com/citations?user=VZ1QiT4AAAAJ&hl=nl).
+
 # Reverse correlation R package
 
 For more information on reverse correlation image classification using my R package [rcicr](https://github.com/rdotsch/rcicr), visit [this Medium post](https://medium.com/@rondotsch/reverse-correlation-image-classification-using-r-a0701648fb0).
-
-# Publications and Patents
-
-For a full list, see [my Google Scholar profile](https://scholar.google.com/citations?user=VZ1QiT4AAAAJ&hl=nl).
-
 
