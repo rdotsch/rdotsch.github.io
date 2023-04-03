@@ -23,10 +23,14 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        <p class="view"><a href="https://www.linkedin.com/in/rondotsch">Resume (LinkedIn)</p>
-        <p class="view"><a href="https://scholar.google.com/citations?user=VZ1QiT4AAAAJ&hl=nl">Publications (Scholar)</p>
-        <p class="view"><a href="{{ site.github.owner_url }}">Code (GitHub)</a></p>
-        <p class="view"><a href="https://medium.com/@rondotsch">Posts (Medium)</a></p>
+        <p class="view">
+          <ul>
+            <li><a href="https://www.linkedin.com/in/rondotsch">LinkedIn Profile</p></li>
+            <li><a href="https://scholar.google.com/citations?user=VZ1QiT4AAAAJ&hl=nl">Google Scholar Profile</p></li>
+            <li><a href="{{ site.github.owner_url }}">Github Profile</a></li>
+            <li><a href="https://medium.com/@rondotsch">Medium Profile</a></li>
+          </ul>
+        </p>
 
         {% if site.show_downloads %}
         <ul class="downloads">
