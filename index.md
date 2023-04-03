@@ -1,13 +1,17 @@
-I’m a Lead Research Scientist at the User Modeling and Personalisation group at Snap Inc. 
+# About me
 
-Previous roles:
-
-- Principal Data Science Consultant (Eraneos, previously known as Anchormen)
-- Senior Research Scientist (Philips Research)
-- Associate Professor (Utrecht University)
+I’m a Lead Research Scientist in the [User Modeling and Personalisation Reserch team](https://research.snap.com/team/category/user-modeling-and-personalization.html) at Snap Inc. My work focuses on user modeling with big data and machine learning, applied in various contexts at Snapchat (including Spam & Abuse, Trust & Safety).  
 
 I hold a PhD in Psychology from Radboud University Nijmegen and have been a Post-Doctoral Research Fellow at Princeton University.
 
-My work focuses on modeling human behaviour using methods from Behavioral Science, Data Science and AI.
+For my complete resume, see [my LinkedIn profile](https://www.linkedin.com/in/rondotsch).
 
-For more information on reverse correlation image classification using my R package rcicr, visit this post.
+# Reverse correlation R package
+
+For more information on reverse correlation image classification using my R package [rcicr](https://github.com/rdotsch/rcicr), visit [this Medium post](https://medium.com/@rondotsch/reverse-correlation-image-classification-using-r-a0701648fb0).
+
+# Publications and Patents
+
+For a full list, see [my Google Scholar profile](https://scholar.google.com/citations?user=VZ1QiT4AAAAJ&hl=nl).
+
+
